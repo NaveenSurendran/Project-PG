@@ -5,5 +5,5 @@ Each actor speaks each sentence in two styles with different emotional intensity
 The RAVDESS dataset includes audio recordings of the actors speaking in seven emotional states: neutral, calm, happy, sad, angry, fearful, and disgust.
 CNNs have been used to model the acoustic features of the RAVDESS dataset, including Mel-Frequency Cepstral Coefficients (MFCCs) ,chroma and melspectogram. 
 CNNs have also been used to extract higher-level representations from the RAVDESS dataset, such as emotion-related prosodic features.
-The performance of the CNN models on the RAVDESS dataset has been shown to be highly accurate, with state-of-the-art results of up to 70.54% accuracy. 
+The performance of the CNN models on the RAVDESS dataset has been shown to be highly accurate, with state-of-the-art results of up to 69.14% accuracy. 
 The use of deep learning with the RAVDESS dataset has enabled more accurate speech emotion recognition, which can be used in a variety of applications such as human-computer interaction and automated customer service.
